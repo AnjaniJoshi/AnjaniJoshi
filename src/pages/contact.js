@@ -11,10 +11,10 @@ const ContactPage = () => (
     <h3>
       Feel free to contact me through the email below, I'd love to chat.<br />
       <a
-        href="mailto:nitin.bisht47@gmail.com"
+        href="mailto:anjani.kjoshi@gmail.com"
         style={{ textDecoration: 'none', color: '#38c' }}
       >
-        nitin.bisht47@gmail.com
+        anjani.kjoshi@gmail.com
       </a>
     </h3>
     <Footer />

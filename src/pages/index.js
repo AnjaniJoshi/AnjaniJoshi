@@ -29,12 +29,12 @@ const videoStyle = {
 const IndexPage = () => (
   <div>
     <main id="main-desc">
-      <h1 id="introStyle">I am Nitin Bisht</h1>
+      <h1 id="introStyle">I am Anjani Kumar Joshi</h1>
       <h3 id="small-heading">
         <Typed
           strings={[
-            'I make excellent, modern websites.',
-            'I make excellent, modern web applications',
+            'I make excellent Android Applications',
+            'I make excellent, modern Android Applications',
           ]}
           backspeed={100}
           typeSpeed={30}

@@ -46,9 +46,9 @@ const Header = props => (
           className="logo"
           onClick={backgroundChangeHandler.bind(null, '#fc1')}
         >
-          NB
+          AJ
         </Link>
-        <span id="logo-name">nitin bisht</span>
+        <span id="logo-name">anjani joshi</span>
         <div id="nextLine">
           <Link
             to="/about/"

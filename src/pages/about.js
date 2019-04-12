@@ -14,13 +14,12 @@ const AboutPage = () => (
     <h1>ABOUT</h1>
     <br />
     <h3>
-      Hi, I'm Nitin Bisht.<br />
+      Hi, I'm Anjani kumar joshi.<br />
       <br />
       <p>
-        I'm an enthusiastic self taught Web developer. I love creating beautiful
-        Web Applications. Comfortable in developing Web apps with HTML/CSS,
-        ReactJS, JavaScript (ES 6), and Node + Express. I started web
-        development in 2017 and since then I've been developing mini projects
+        I'm an enthusiastic self taught Android Enginner. I love creating beautiful
+        Android Applications. Comfortable in developing Android apps with Kotlin/java.
+         I started Android development in 2015 and since then I've been developing major projects
         where I Implement almost everything whatever I learned. And yes I know
         how to teach myself stuff. I also do web design and development for
         projects that I find interesting, challenging or exciting.
@@ -52,8 +51,8 @@ const AboutPage = () => (
         <br />
         <p className="comment-head">/* SUMMARY OF QUALIFICATIONS */ </p>
         <p>
-          Received a Bachelors degree in the Computer Science and Engineering at
-          DIT University, Dehradun, UK
+          Received a Bachelors degree in the ECE at
+          Marudhar Engineering College, Bikaner, Rajasthan.
         </p>
         <p>
           Excellent organization, self-motivation, and problem-solving skills.
@@ -62,74 +61,169 @@ const AboutPage = () => (
           Creative, strong communication skills and consistently meets
           deadlines.
         </p>
-        <p>Passionate about web development and new technologies.</p>
+        <p>Passionate about Android development and new technologies.</p>
 
         {/*****Section Technical Skills*****/}
         <p className="comment-head">/* TECHNICAL SKILLS */</p>
         <p>
-          <p className="min-heads"> Programming Languages: </p>JavaScript(ES 6),
-          HTML/CSS, TypeScript, C and Java
+          <p className="min-heads"> Programming Languages: </p>CoreJava,
+           Kotlin, HTML/CSS,  C and Java
         </p>
         <p>
-          <p className="min-heads"> Frameworks & Libraries: </p>ReactJS,
-          ExpressJS, jQuery, Bootstrap, Semantic UI
+          <p className="min-heads">Tools: </p>SVN, GIT, JIRA, bitbucket
         </p>
+
         <p>
-          <p className="min-heads">Database:</p> MongoDB
+          <p className="min-heads">Plateforms: </p>Linux, Windows, Mac
+        </p>
+        
+        <p>
+          <p className="min-heads">Database:</p> MongoDB, Relam, SQLite, MySQL
         </p>
         <p>
           <p className="min-heads">Version Control: </p> Git
         </p>
         <p>
-          <p className="min-heads"> IDE & Photo Editing Tools: </p> VS Code,
-          Photoshop
+          <p className="min-heads"> IDE & Photo Editing Tools: </p> Android Studio,
+          VS Code, Atom, Photoshop
         </p>
         {/***** Section Ends *****/}
 
         <p className="comment-head">/* EXPERIENCE */</p>
         <p className="comment-head">
-          //Training With Udemy.com{' '}
-          <p style={{ fontSize: '0.7rem' }}>//JAN 2018 - PRESENT</p>{' '}
+
+        <p className="comment-head">
+          //Current Work details{' '}
+          
         </p>
-        <p>Learning and Understanding of ReactJS Eco System.</p>
-        <p>Understanding of ES 6 and Next Generation JavaScript Features.</p>
-        <p>
-          Utilized ReactJS to build components for various web applications.
+    
+          <p style={{ fontSize: '0.7rem' }}>//DEC 2018 - PRESENT</p>{' '}
         </p>
         <p>
-          Worked with gatsbyJS A Blazing-fast static site generator for React,
-          Powered by React and Webpack.
+          <p className="min-heads">  Company Name: </p> Sqrrl Fintech
+        </p>
+        <p>
+          <p className="min-heads">  Responsibilities: </p> 
+        </p>
+        <p>Understanding the requirements and design.</p>
+        <p>Creational (Singleton), Factory Design patterns used.</p>
+        <p>Development activities in Android, core Java using different MVVM.</p>
+
+        <p>
+        Ensuring adherence to the coding standards (Findbug and versioning management).
+        </p>
+        <p>
+        Testing and production support of the application
+        </p>
+        <p>
+        Converting old code into new architecture components (JetPack )
+        </p>
+
+        
+        <p>
+          <p className="min-heads">  PlayStore: </p> {' '}
+          <a
+          href="https://play.google.com/store/apps/details?id=in.sqrrl.app.sqrrlapi"
+          target="_blank"
+          style={linkStyle}
+        >
+          {' '}
+          Sqrrl
+        </a>.
         </p>
 
         <p className="comment-head">
-          //Training With FreeCodeCamp{' '}
-          <p style={{ fontSize: '0.7rem' }}>//MAY 2017 - NOV 2017</p>{' '}
-        </p>
-        <p>Started From basics and acquired essential skills.</p>
-        <p>
-          Designed and Developed many Landing Pages with CSS Frameworks like
-          Bootstrap.
+          //Past Work details{' '}
+          
+          <p style={{ fontSize: '0.7rem' }}>// March 2018 - December </p>{' '}
         </p>
         <p>
-          Utilized latest HTML5 and CSS3 technologies to build semantically
-          correct and visually interesting responsive designs.
+          <p className="min-heads">  Company Name: </p> A3Logics India Pvt. Ltd.
         </p>
+
         <p>
-          Developed Todo App and Color game, Implemented Vanilla JS Event
-          Listeners.
+          <p className="min-heads">  PlayStore: </p> {' '}
+          <a
+          href="https://play.google.com/store/apps/details?id=com.teemwurk"
+          target="_blank"
+          style={linkStyle}
+        >
+          {' '}
+          OnCore HCM
+        </a>.
         </p>
-        <p>Created interactive elements with custom JavaScript and Jquery.</p>
-        <p>Learned about JavaScript Design Pattern and Modularity of Code.</p>
+
         <p>
-          Build a fully functional Blog Posting Site, Worked on BackEnd with
-          NodeJS, ExpressJS and MongoDB.
+          <p className="min-heads">  PlayStore: </p> {' '}
+          <a
+          href="https://play.google.com/store/apps/details?id=com.onCore"
+          target="_blank"
+          style={linkStyle}
+        >
+          {' '}
+          TeemWurk
+        </a>.
         </p>
+        
+        <p className="comment-head">
+          // January, 2017 - March 2018 {' '}
+       </p>
+
+        <p>
+          <p className="min-heads">  Company Name: </p>  Syon InfoMedia Pvt Ltd
+        </p>
+
+        <p>
+          <p className="min-heads">  PlayStore: </p> {' '}
+          <a
+          href="https://play.google.com/store/apps/details?id=sg.whyq.users"
+          target="_blank"
+          style={linkStyle}
+        >
+          {' '}
+          WhyQ : Hawker delivery
+        </a>.
+        </p>
+
+        <p>
+          <p className="min-heads">  PlayStore: </p> {' '}
+          <a
+          href=" https://play.google.com/store/apps/details?id=com.eta.drivers          "
+          target="_blank"
+          style={linkStyle}
+        >
+          {' '}
+          ETA
+        </a>.
+        </p>
+
+        <p className="comment-head">
+          // March, 2015- January 2017 {' '}
+       </p>
+
+       <p>
+          <p className="min-heads">  Company Name: </p> JasApp TechServ Pvt Ltd.
+        </p>
+     
+        <p>
+          <p className="min-heads">  PlayStore: </p> {' '}
+          <a
+          href="https://play.google.com/store/apps/details?id=com.courseguru"
+          target="_blank"
+          style={linkStyle}
+        >
+          {' '}
+          CourseGuru Free Online Courses
+        </a>.
+        </p>
+
+        
 
         {/***** Section Ends *****/}
         <p className="comment-head">/* EDUCATION */ </p>
         <p>
-          <p className="min-heads">DIT University, Dehradun - </p>
-          B.Tech. Computer Science and Engneering 2017
+          <p className="min-heads">MEC Bikaner, Rajasthan - </p>
+          B.Tech. Electronics and Communication Engineering 2014
         </p>
 
         {/* Inside Resume Ends*/}

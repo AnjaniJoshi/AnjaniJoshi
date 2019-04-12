@@ -27,19 +27,100 @@ const ProjectPage = () => (
       <br />
       {/****** Projet 1 ******/}
       <a
-        href="https://github.com/ntnbst/keymapper"
+        href="https://play.google.com/store/apps/details?id=in.sqrrl.app.sqrrlapi"
         target="_blank"
         style={linkStyle}
       >
-        <h1 style={headingStyle}>KeyMapper</h1>
+        <h1 style={headingStyle}>SQRRL</h1>
       </a>
-      Designed and Developed a web app which Logs the dynamic generated
-      keystrokes in the screen. Implementation of React state, props and event
-      handlers.
-      <p>Built With: React, CSS Loader</p>
+      Sqrrl is an investment and wealth management platform aimed at helping young indians build the habit of savings and investments.
+
+      <p>Built With: Android,Java(1.8),Kotlin</p>
       <br />
-      {/****** Projet 2 ******/}
-      <Link to="/" style={linkStyle}>
+   {/****** Projet 2 ******/}
+      <a
+        href="https://play.google.com/store/apps/details?id=com.teemwurk"
+        target="_blank"
+        style={linkStyle}
+      >
+        <h1 style={headingStyle}>TeemWurk</h1>
+      </a>
+      TeemWurk provides a SaaS-based integrated human capital management platform.
+      A Product which offers employees instant and easy access to all their Benefits, Payroll and HR Information System.
+    
+      <p>Built With: Android,Java(1.8),Kotlin</p>
+      <br />
+
+        {/****** Projet 2 ******/}
+        <a
+        href="https://play.google.com/store/apps/details?id=com.onCore"
+        target="_blank"
+        style={linkStyle}
+      >
+        <h1 style={headingStyle}>OnCore HCM</h1>
+      </a>
+      OnCore provides a SaaS-based integrated human capital management platform.
+      A Product which offers employees instant and easy access to all their Benefits, Payroll and HR Information System.
+    
+      <p>Built With: Android,Java(1.8),Kotlin</p>
+      <br />
+
+       {/****** Projet 2 ******/}
+       <a
+        href="https://play.google.com/store/apps/details?id=sg.whyq.user"
+        target="_blank"
+        style={linkStyle}
+      >
+        <h1 style={headingStyle}>WhyQ : Hawker delivery</h1>
+      </a>
+      Singapore based Food Delivery Start-up.Local Food Delivery at low cost.Track ordered food online like swiggy.Rider Application for track packages.
+      <p>Built With: Android,Java(1.8),Kotlin</p>
+      <br />
+
+        {/****** Projet 2 ******/}
+        <a
+        href="https://play.google.com/store/apps/details?id=sg.whyq.user"
+        target="_blank"
+        style={linkStyle}
+      >
+        <h1 style={headingStyle}>ETA</h1>
+      </a>
+      ETA simply a limousine and bus booking app. User can book both limousine and bus using instant and schedule booking. User track nearby drivers and book their ride. In bus booking user book available seats      <p>Built With: Android,Java(1.8),Kotlin</p>
+      <br />
+
+
+      
+         {/****** Projet 2 ******/}
+         <a
+        href="https://play.google.com/store/apps/details?id=com.courseguru"
+        target="_blank"
+        style={linkStyle}
+      >
+        <h1 style={headingStyle}>	Course Guru</h1>
+      </a>
+      CourseGuru is the world's largest Free online courses with free video lectures, tutorials, lessons provider. Courses (video lectures) are provided by top universities like MIT, Stanford, Harvard, Yale, McGill, UC Berkeley, NJIT, UCLA, NPTEL (IISc Bangalore, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur, IIT Madras, IIT Roorkee) and Khan academy as well.       <p>Built With: Android,Java(1.8),Kotlin</p>
+      <br />
+
+
+  {/****** Projet 2 ******/}
+  <a
+        href="https://play.google.com/store/apps/details?id=com.courseguru"
+        target="_blank"
+        style={linkStyle}
+      >
+        <h1 style={headingStyle}>Picamoji</h1>
+      </a>
+      Picamoji is Image and video-editing app. User can edit images. User can add multiple color & different size doodle. User can add text and emojis. Multiple image effect filters provided 
+            <p>Built With: Json Android Material Design, Bitmap, Memory management, openGL surface view.
+</p>
+      <br />
+
+
+
+
+
+         {/****** Projet 2 ******/}
+         <Link to="/" style={linkStyle}>
         {' '}
         <h1 style={headingStyle}>My PortFolio site</h1>
       </Link>
@@ -49,85 +130,20 @@ const ProjectPage = () => (
       </a>.
       <p>Built With: React, Gatsby</p>
       <br />
+
+
+
       {/****** Projet 3 ******/}
-      <a
-        href="https://github.com/ntnbst/DevBlogg"
-        target="_blank"
-        style={linkStyle}
-      >
-        <h1 style={headingStyle}>DevBlogg</h1>
-      </a>
-      Designed and Developed a fully functional Blog posting site, Where user
-      can Post, Edit and then, can delete the created Post.
-      <p>Built With: Semantic UI, NodeJS, ExpressJS, MongoDB</p>
-      <br />
+    
       {/****** Project 4 ******/}
-      <a
-        href="https://codepen.io/ni7in/full/VQpqBB/"
-        target="_blank"
-        style={linkStyle}
-      >
-        <h1 style={headingStyle}>Responsive Website Template</h1>
-      </a>
-      Built a website template using CSS Grid and FlexBox, These are great tools
-      to design almost any kind of Grid System also used CSS variables for clean
-      CSS code. RIP Bootstrap which has really terrible class names.
-      <br />
-      <br />
-      <br />
-      <img
-        src="https://image.ibb.co/hDqziS/gridbuz_full.jpg"
-        alt="Picture of a website template"
-      />
-      <p>Built With: CSS Grid, CSS FlexBox, HTML5</p>
-      <br />
+      
+  
       {/****** Project 5 ******/}
-      <a
-        href="https://github.com/ntnbst/patatap-clone"
-        target="_blank"
-        style={linkStyle}
-      >
-        <h1 style={headingStyle}>Patatap clone</h1>
-      </a>
-      Clone of the famous Patatap app, which lets you play some sounds on
-      different Key-press. Clone and play with it.
-      <p>Built With: PaperJS, HTML Canvas, CSS 3</p>
-      <br />
-      {/****** Project 6 ******/}
-      <a
-        href="https://codepen.io/ni7in/full/eGRRLL/"
-        target="_blank"
-        style={linkStyle}
-      >
-        <h1 style={headingStyle}>Switch to-do</h1>
-      </a>
-      A Simple ToDo app which lets you add delete and remove Tasks.
-      <p>Built With: HTML 5, CSS 3, Bootstrap 4</p>
-      <br />
+      
       {/****** Project 7 ******/}
-      <a
-        href="https://codepen.io/ni7in/full/WEVEOx/"
-        target="_blank"
-        style={linkStyle}
-      >
-        <h1 style={headingStyle}>Color picker game</h1>
-      </a>
-      A simple game where a random color is displays on the top which has to be
-      guessed by the player. Easy and Hard Difficulty Mode New Color option Can
-      be added more difficulty modes
-      <p>Built With: HTML 5, CSS 3, Bootstrap 4</p>
-      <br />
+     
       {/* Project 8 */}
-      <a
-        href="https://codepen.io/ni7in/full/xYwVjz/"
-        target="_blank"
-        style={linkStyle}
-      >
-        <h1 style={headingStyle}>sign up page</h1>
-      </a>
-      A Sign-Up page Template, Responsive - page changes according to the screne
-      size of the device. Implemented media queries.
-      <p>Built with: HTML and CSS</p>
+      
     </h3>
     <Footer />
   </div>

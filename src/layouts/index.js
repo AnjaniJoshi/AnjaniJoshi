@@ -6,10 +6,9 @@ import './index.css'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Nitin Bisht" meta={[ { name: 'nitin bisht', content: 'Front End Developer' }, { name: 'keywords', content: 'Programming, India' }]}>
+    <Helmet title="Anjani Kumar joshi" meta={[ { name: 'anjani kumar joshi', content: 'Android Enginner' }, { name: 'keywords', content: 'Programming, India' }]}>
       <meta charSet="utf-8" />
-      <title>Nitin Bisht</title>
-      <link rel="canonical" href="http://ntnbst.netlify.com" />
+      <title>Anjani Kumar joshi</title>
     </Helmet>
     <Header />
     <div
