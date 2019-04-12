@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Anjani joshi',
-    pathPrefix: "/AJPortfolio",
+    pathPrefix: "https://github.com/AnjaniJoshi/AJPortfolio.git",
 
   },
   plugins: [
