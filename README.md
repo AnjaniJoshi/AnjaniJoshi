@@ -1,5 +1,5 @@
-# Portfolio Site Nitin Bisht
-[ntnbst.netlify.com](https://ntnbst.netlify.com)
+# Portfolio Site Anjani joshi
+[https://www.linkedin.com/in/anjani-kumar-joshi-4648a290/](https://www.linkedin.com/in/anjani-kumar-joshi-4648a290/)
 
 ## Deploy
 
